@@ -1,7 +1,10 @@
 # How to use
 Download the **Blue Hearts-1.21+.zip**
+
 Open your resuorce pack folder and paste the file in there.
+
 Select the texture pack and click "Done".
+
 
 # Overview
 This resource pack adds blue hearts and some visibility/PvP improvements.
