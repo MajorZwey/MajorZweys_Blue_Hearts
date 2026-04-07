@@ -1,7 +1,7 @@
 # How to use
 Download the **Blue Hearts-1.21+.zip**
 
-Open your resuorce pack folder and paste the file in there.
+Open your resource pack folder and paste the file in there.
 
 Select the resource pack and click "Done".
 
